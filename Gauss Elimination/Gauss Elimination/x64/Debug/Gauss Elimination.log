@@ -1,0 +1,3 @@
+﻿  GaussElimination.cpp
+E:\Visual Studio\Gauss Elimination\Gauss Elimination\GaussElimination.cpp(201,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Gauss Elimination.vcxproj -> E:\Visual Studio\Gauss Elimination\x64\Debug\Gauss Elimination.exe
